@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.terraform/
+*.tfstate
+*.log
+*.zip
+terminal.txt
+*.pem
+*.tfstate
+*.tfstate.backup
+.terraform/
+allfiles.txt
